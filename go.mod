@@ -1,4 +1,4 @@
-module git.randomchars.net/FreeNitori/Log
+module git.randomchars.net/freenitori/log
 
 go 1.16
 
